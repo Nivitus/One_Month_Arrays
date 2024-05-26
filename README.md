@@ -9,8 +9,8 @@ Sure, here they are with index numbers:
 4. - Find the second largest element in an array. ✅
 5. - Remove duplicates from a sorted array. ✅
 6. - Find the missing number in an array. ✅
-7. - Check if an array contains a particular element.
-8. - Rotate an array by a given number of positions.
+7. - Check if an array contains a particular element. ✅
+8. - Rotate an array by a given number of positions. ✅
 9. - Merge two sorted arrays.
 10. - Separate even and odd elements in an array.
 11. - Find the frequency of each element in an array.
